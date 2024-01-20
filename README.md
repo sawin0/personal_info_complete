@@ -1,7 +1,7 @@
 
 # Personal Info App
 
-This is a simple flutter app for storing personal information. It was created as a teaching demo for college students learning flutter development.
+This is a simple flutter app for displaying personal information. It was created as a teaching demo for college students learning flutter development.
 
 ## Features
 
