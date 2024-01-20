@@ -1,16 +1,39 @@
-# personal_info
 
-A new Flutter project created while mentoring students willing to learn basics of Flutter.
+# Personal Info App
 
-## Getting Started
+This is a simple flutter app for storing personal information. It was created as a teaching demo for college students learning flutter development.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Displays name, address, email, phone, designation, profile image
+- Open email app when tapping on email
+- Open phone dialer when tapping on phone number
+- Open Google Maps when tapping on address
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enter personal info into the form fields. Tapping the icons will open the respective app.
+
+## Installation
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the App
+
+```bash
+flutter run
+```
+
+## Customization
+
+Customize the app by modifying the personal info fields and UI components.
+
+## Dependencies
+
+- [url_launcher](https://pub.dev/packages/url_launcher) - for launching external apps
+
+Check `pubspec.yaml` for the latest dependency versions.
