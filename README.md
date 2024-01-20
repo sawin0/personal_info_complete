@@ -12,7 +12,7 @@ This is a simple flutter app for displaying personal information. It was created
 
 ## Usage
 
-Enter personal info into the form fields. Tapping the icons will open the respective app.
+Update personal info into the text fields by modifying code. Tapping the icons will open the respective app.
 
 ## Installation
 
