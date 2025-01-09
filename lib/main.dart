@@ -122,7 +122,7 @@ class MyApp extends StatelessWidget {
     //TODO: replace email, subject and body
     final Uri emailLaunchUri = Uri(
       scheme: 'mailto',
-      path: 'binranabhat@gmail.com',
+      path: 'hello@sawin.com.np',
       query: encodeQueryParameters(<String, String>{
         'subject': 'This is my first email sent programmatically',
         'body': 'Hello there\n Just Testing....\n\n Regards,\nSabin'
